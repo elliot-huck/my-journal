@@ -5,12 +5,13 @@
 }
 
 body {
-	background-color: lightgrey;
-	color: darkslateblue;
-	font-family: Garamond,serif;
+	background-color: antiquewhite;
+	color: black;
+	font-family: Garamond, serif;
 	padding: .5em;
 }
 
 article {
 	padding: .5em;
+	width: 50%;
 }
